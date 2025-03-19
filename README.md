@@ -1,1 +1,3 @@
-# objects-coding-challeges
+# Repped School Front End Engineering Cohort
+
+Welcome to the FE Engineer Cohort. This is a starter template. You will recieve the details on what to do during the session.
