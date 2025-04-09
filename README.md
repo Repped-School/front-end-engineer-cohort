@@ -2,6 +2,9 @@
 
 Welcome to the FE Engineer Cohort. This is a starter template. You will recieve the details on what to do during the session.
 
+## WHERE WE WILL START
+![start](https://github.com/user-attachments/assets/cd721daa-8a6b-42c1-a211-894fe93a2b04)
+
 inspo: https://htmlrev.com/free-html-templates.html
 
 ## Session 1: Chapters 1 - 5
@@ -23,3 +26,5 @@ inspo: https://htmlrev.com/free-html-templates.html
 [Main Images Canva Template](https://www.canva.com/design/DAGkAJgxPMo/wXXuteqM377dsU0SaqdJew/view?utm_content=DAGkAJgxPMo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 [Logos Canva Template](https://www.canva.com/design/DAGkAJK-DMA/5cHmcyqHfDZsVKCVFW3BpQ/view?utm_content=DAGkAJK-DMA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 [Icons Canva Template](https://www.canva.com/design/DAGkAPgPkWQ/FQmH6xevtfB0wHIohg0AvQ/view?utm_content=DAGkAPgPkWQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+## WHERE WE WILL FINISH
